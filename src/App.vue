@@ -5,7 +5,6 @@
   -->
   <router-view></router-view>
 </template>
-
 <script setup>
 // App.vue is the main entry component for our Vue application.
 // It acts as a container for all other components.
