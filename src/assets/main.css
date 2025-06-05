@@ -1,0 +1,11 @@
+/* This file is used to import Tailwind CSS into our Vue application.
+  It's imported in src/main.js.
+  These directives are processed by PostCSS and Tailwind to inject all the utility classes.
+*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add any global custom CSS here if needed, but Tailwind is preferred */
